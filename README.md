@@ -10,4 +10,5 @@ I have learned the complete steps to assemble a computer CPU by completing the l
 
 <h2>What's Next</h2>
 <a href="https://github.com/chuahhw">Home</a>
-<a href="https://github.com/TIS">TIS</a>
+
+<a href="https://github.com/chuahhw/TIS">TIS</a>
