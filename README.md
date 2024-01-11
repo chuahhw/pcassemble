@@ -9,6 +9,5 @@ PC assemble lab activity was conducted on 25th October 2023, at 2.50pm, in Makma
 I have learned the complete steps to assemble a computer CPU by completing the lab. I also learned the name of the components inside the CPU. After assemble CPU, my classmate and me also did a quiz to test our knowledge on how to assemble the CPU and the name of the CPU components. My suggestion for the improvement is I hope that we are given more time to complete the quiz. I also hope that we have more time to prepare and study for the quiz
 
 <h2>What's Next</h2>
-<a href="https://github.com/chuahhw">Home</a>
 
-<a href="https://github.com/chuahhw/TIS">TIS</a>
+<a href="https://github.com/chuahhw/TIS">Back to TIS</a>
